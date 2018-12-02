@@ -1,9 +1,9 @@
 # Coding Challenge 12 - Advent of Code 2018
 
-This month we are doing a special coding challenge! December is the best time of the year to be a programmer since the [Advent of Code](https://adventofcode.com/) begins! Every day, we are going to have a programming problem that we all need to solve for 25 days straight. The beauty will be that you will be able to see your solution and compare it with all the other students from our community! **When it comes to problem solving, in my opinion, Advent of Code is the best resource avilable to make you a better logical thinker through code. I cannot recommend it enough if you want to become a better coder so I hope you can all participate even if it is just a few days**. 
+This month we are doing a special coding challenge! December is the best time of the year to be a programmer since the [Advent of Code](https://adventofcode.com/) begins! Every day, we are going to have a programming problem that we all need to solve for 25 days straight. The beauty will be that you will be able to see your solution and compare it with all the other students from our community! **When it comes to problem solving, in my opinion, Advent of Code is the best resource available to make you a better logical thinker through code. I cannot recommend it enough if you want to become a better coder so I hope you can all participate even if it is just a few days**. 
 
 ## What is the Challenge?
-Each day Advent of Code will give you a problem to solve. Each day, the questions get harder and harder. All you will need to do is to submit your code anytime you finish the question (Please note: Although each day is a new question, you can submit your code anytime and even do the questions a few days late if you miss the actual day)
+Each day **Advent of Code** will give you a problem to solve. Each day, the questions get harder and harder. All you will need to do is to submit your code anytime you finish the question (Please note: Although each day is a new question, you can submit your code anytime and even do the questions a few days late if you miss the actual day)
 
 ### Here are the steps:
 1. Read the about section here: https://adventofcode.com/2018/about
